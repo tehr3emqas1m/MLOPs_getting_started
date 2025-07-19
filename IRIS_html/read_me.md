@@ -22,7 +22,7 @@ IRIS_html/
 - Backend: Python, FastAPI, scikit-learn, joblib
 - Frontend: HTML5, CSS3, JavaScript
 - Deployment: Uvicorn (ASGI server)
-<img width="1366" height="768" alt="Screenshot from 2025-07-19 18-44-19" src="https://github.com/user-attachments/assets/c236a10e-d8df-4feb-83f4-1d63e168afa6" />
+<img width="572" height="413" alt="Screenshot from 2025-07-19 18-44-19" src="https://github.com/user-attachments/assets/56d372fc-ebb8-4a19-b9c9-6aff112ee994" />
 
 
 
