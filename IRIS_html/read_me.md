@@ -8,13 +8,15 @@ A full-stack machine learning application that predicts Iris flower species base
 
 Folder Structure:
 ----------------
-IRIS_html/  
-├── app_html.py             # FastAPI backend  
-├── code1.py                # Mode training
-├── model.pkl               # Trained scikit-learn model  
-├── static/                 # CSS/JS files (optional)  
-└── templates/  
-    └── index.html          # User interface  
+```
+IRIS_html/
+├── app_html.py
+├── code1.py
+├── model.pkl
+├── static/
+└── templates/
+    └── index.html
+```
 
 
 - Backend: Python, FastAPI, scikit-learn, joblib
